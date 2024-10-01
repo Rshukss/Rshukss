@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **rahul4shukla64@gmail.com**
 
-- 📄 Know about my experiences [RESUME](https://silver-timi-1.tiiny.site)
+- 📄 Know about my experiences [RESUME](aiapply.co/r/66fb754e656a9)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
