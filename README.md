@@ -11,7 +11,7 @@
 
 - 🔙 My past experience involves **Working as a Data Science Intern @ ICICI Bank**
 
-- 📫 How to reach me **rahul4shukla64@gmail.com**
+- 📫 How to reach me **rahul4shukla64@gmail.com** or **rshuks@seas.upenn.edu**
 
 - 📄 Know about my experiences [RESUME](https://storage.googleapis.com/resume-hosting/66fb754e656a9.pdf)
 
