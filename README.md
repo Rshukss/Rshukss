@@ -13,8 +13,6 @@
 
 - 📫 How to reach me **rahul4shukla64@gmail.com** or **rshuks@seas.upenn.edu**
 
-- 📄 Know about my experiences [RESUME](https://storage.googleapis.com/resume-hosting/66fb754e656a9.pdf)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/rshukss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rshukss" height="30" width="40" /></a>
