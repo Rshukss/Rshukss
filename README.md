@@ -7,6 +7,8 @@
 
 - 💻 I’ve also proposed [A Comparative Study of Deep Learning and Machine Learning Techniques in Credit Score Classification](https://github.com/Rshukss/Credit-Score-Classification-using-ML-DL-techniques.git)
 
+- 💻 I’ve designed and implemented [An Airline Reservation System and Management](https://github.com/Rshukss/DBMS_AIRLINE_MANAGEMENT_SYSTEM.git)
+
 - 🔙 My recent experience involves **Working as a Computer Science Research Intern @ IIT Bombay**
 
 - 🔙 My past experience involves **Working as a Data Science Intern @ ICICI Bank**
