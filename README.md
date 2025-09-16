@@ -1,17 +1,14 @@
 <h1 align="center">Hi 👋, I'm Rahul Shukla</h1>
 <h3 align="center">A driven Data Science & ML Programmer committed to making a positive impact by helping others</h3>
 
-- 🔭 I recently developed [WellBe: Intelligent Elderly Care and Well Being Monitoring System Based on Deep Learning](https://github.com/Rshukss/WellBe-Intelligent-Elderly-Care-and-Remote-Monitoring-using-DL.git)
-
-- 🛠️ I curated [Multiple Disease Prediction System using Machine Learning](https://github.com/Rshukss/Multiple_Disease_Prediction_System.git)
-
-- 💻 I’ve also proposed [A Comparative Study of Deep Learning and Machine Learning Techniques in Credit Score Classification](https://github.com/Rshukss/Credit-Score-Classification-using-ML-DL-techniques.git)
-
-- 💻 I’ve designed and implemented [An Airline Reservation System and Management](https://github.com/Rshukss/DBMS_AIRLINE_MANAGEMENT_SYSTEM.git)
-
-- 🔙 My recent experience involves **Working as a Computer Science Research Intern @ IIT Bombay**
-
-- 🔙 My past experience involves **Working as a Data Science Intern @ ICICI Bank**
+- 🎓 I’m currently pursuing my **Master’s in Data Science at the University of Pennsylvania**  
+- 🔬 I’m an **AI Research Intern at Siemens Healthineers** – working on MCP-based architectures for LLM-driven patient simulation & workflow automation in healthcare  
+- 🔬 I’m a **Research Assistant at Shen Labs (UPenn)** – focusing on adapting vision-language models for CT/MRI reasoning and multimodal clinical AI  
+- 📄 I have published at **ICCV Workshop 2025, IEEE CONIT 2023, and IEEE ELEXCOM 2023**  
+- 💻 Some of my key projects/publications include:  
+  - [Adapting Vision-Language Models for 3D CT/MRI Understanding](#) *(ICCVW 2025)*  
+  - [WellBe: Intelligent Elderly Care and Well-Being Monitoring System](https://github.com/Rshukss/WellBe-Intelligent-Elderly-Care-and-Remote-Monitoring-using-DL.git) *(IEEE CONIT 2023)*  
+  - [Multiple Disease Prediction System](https://github.com/Rshukss/Multiple_Disease_Prediction_System.git) *(IEEE ELEXCOM 2023)*  
 
 - 📫 How to reach me **rahul4shukla64@gmail.com** or **rshuks@seas.upenn.edu**
 
