@@ -10,7 +10,7 @@
 - 📄 I have published at **ICCV Workshop 2025, IEEE CONIT 2023, and IEEE ELEXCOM 2023**
   
 - 💻 Some of my key projects/publications include:  
-  - [Adapting Vision-Language Models for 3D CT/MRI Understanding](#) *(ICCVW 2025)*  
+  - [Adapting Vision-Language Models for 3D CT/MRI Understanding](https://openaccess.thecvf.com/content/ICCV2025W/VADH/papers/Chen_Adapting_Vision-Language_Models_for_3D_CTMRI_Understanding_on_PMBB_via_ICCVW_2025_paper.pdf) *(ICCVW 2025)*  
   - [WellBe: Intelligent Elderly Care and Well-Being Monitoring System](https://github.com/Rshukss/WellBe-Intelligent-Elderly-Care-and-Remote-Monitoring-using-DL.git) *(IEEE CONIT 2023)*  
   - [Multiple Disease Prediction System](https://github.com/Rshukss/Multiple_Disease_Prediction_System.git) *(IEEE ELEXCOM 2023)*  
 
