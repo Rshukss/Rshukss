@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Rahul Shukla</h1>
 <h3 align="center">A driven Data Science & ML Programmer committed to making a positive impact by helping others</h3>
 
-- 🎓 I’m currently pursuing my **MSE** in **Data Science** at the **University of Pennsylvania**
+- 🎓 I’m currently pursuing my **MSE** in **Data Science** at the **University of Pennsylvania** advised by **Dr. Li Shen**
+
+- 📝 My master's thesis focuses on enhancing 3D Vision-Language Models through efficient contrastive alignment strategies and incorporating negative SFT to reduce model hallucinations.
   
-- 🔬 I’m an **AI Research Intern** at **Siemens Healthineers** – working on MCP-based architectures for LLM-driven patient simulation & workflow automation in healthcare
-  
-- 🔬 I also work as a **Research Assistant** at **Shen Labs, UPenn** – focusing on adapting vision-language models for CT/MRI reasoning and multimodal clinical AI
-  
+- 🔬 Additionally, I’m also an **AI and Simulation Research Intern** at **Siemens Healthineers** – working on MCP-based architectures for LLM-driven patient simulation & workflow automation in healthcare
+
 - 📄 I have published at **ICCV Workshop 2025, IEEE CONIT 2023, and IEEE ELEXCOM 2023**
   
 - 💻 Some of my key projects/publications include:  
